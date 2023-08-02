@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/durjoykundu07" target="blank"><img src="https://img.shields.io/twitter/follow/@durjoykundu07?logo=twitter&style=for-the-badge" alt="@durjoykundu07" /></a> </p>
 
-- 🌱 I’m currently learning **React,Node Js**
+- 🌱 I’m currently learning **Blockchain development,React,Node Js**
 
 - 💬 Ask me about **C++ and Competitive programming**
 
